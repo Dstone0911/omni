@@ -1,0 +1,7 @@
+{
+  "name": "OmniChain X: Abstract Bridging & Swap",
+  "description": "A high-performance DEX and bridging interface for interoperability between Tenderly vNets, Testnets, and Mainnets, featuring real-time chain abstraction and security analysis powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
